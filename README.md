@@ -3,14 +3,10 @@ Desenvolvimento do Trabalho de Conclusão de Curso do aluno Gustavo Fernandes Si
 
 
 ## 📖 O que é o ?
-
-"EstoQ: desenvolvimento de um aplicativo móvel para gestão de estoque e apoio à decisão em micro e pequenas empresas do comércio varejista de moda"
-
-Transformar dados de movimentação de estoque em informações que auxiliem o responsável pelo comércio na identificação de produtos de maior e menor movimentação, níveis críticos de estoque e necessidades de reposição
+...
 
 ## 🎯 Qual problema ele resolve?
-
-Como um aplicativo móvel especializado na gestão de estoque de produtos com múltiplas variações pode auxiliar micro e pequenas empresas do varejo de moda na tomada de decisões relacionadas ao controle e à reposição de produtos?
+...
 
 # 📌 Regras para Uso do Git e GitHub no Desenvolvimento
 
