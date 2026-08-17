@@ -1,5 +1,5 @@
 # TCC_v1_2026.2
-Desenvolvimento do Trabalho de Conclusão de Curso do aluno Gustavo Fernandes Silva
+Desenvolvimento do Trabalho de Conclusão de Curso do aluno Lafuente Paulino da Silva 
 
 
 ## 📖 O que é o ?
